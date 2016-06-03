@@ -1,0 +1,4 @@
+E:\visual studio 2010\Projects\OfficeWordAutoCorrecting\OfficeWordAutoCorrecting\bin\Debug\OfficeWordAutoCorrecting.dll
+E:\visual studio 2010\Projects\OfficeWordAutoCorrecting\OfficeWordAutoCorrecting\bin\Debug\OfficeWordAutoCorrecting.pdb
+E:\visual studio 2010\Projects\OfficeWordAutoCorrecting\OfficeWordAutoCorrecting\obj\Debug\OfficeWordAutoCorrecting.dll
+E:\visual studio 2010\Projects\OfficeWordAutoCorrecting\OfficeWordAutoCorrecting\obj\Debug\OfficeWordAutoCorrecting.pdb
